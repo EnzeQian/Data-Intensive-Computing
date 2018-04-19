@@ -1,0 +1,1459 @@
+"","team_api_id","team_long_name","Play","Creation","Defense","goals"
+"1",9930,"FC Aarau",NA,180,150,153
+"2",9930,"FC Aarau",156,181,145,153
+"3",9930,"FC Aarau",142,181,145,153
+"4",8485,"Aberdeen",NA,210,200,365
+"5",8485,"Aberdeen",NA,153,146,365
+"6",8485,"Aberdeen",NA,170,140,365
+"7",8485,"Aberdeen",NA,145,144,365
+"8",8485,"Aberdeen",184,181,143,365
+"9",8485,"Aberdeen",176,186,157,365
+"10",8576,"AC Ajaccio",NA,135,130,116
+"11",8576,"AC Ajaccio",NA,180,140,116
+"12",8576,"AC Ajaccio",NA,134,138,116
+"13",8576,"AC Ajaccio",NA,134,138,116
+"14",8576,"AC Ajaccio",168,138,138,116
+"15",8576,"AC Ajaccio",168,138,138,116
+"16",8564,"Milan",NA,170,125,496
+"17",8564,"Milan",NA,160,150,496
+"18",8564,"Milan",NA,135,140,496
+"19",8564,"Milan",NA,168,150,496
+"20",8564,"Milan",170,177,164,496
+"21",8564,"Milan",170,171,164,496
+"22",10215,"Académica de Coimbra",NA,165,90,240
+"23",10215,"Académica de Coimbra",NA,155,140,240
+"24",10215,"Académica de Coimbra",NA,172,151,240
+"25",10215,"Académica de Coimbra",NA,172,151,240
+"26",10215,"Académica de Coimbra",149,166,138,240
+"27",10215,"Académica de Coimbra",150,166,138,240
+"28",10217,"ADO Den Haag",NA,145,90,366
+"29",10217,"ADO Den Haag",NA,181,173,366
+"30",10217,"ADO Den Haag",NA,159,170,366
+"31",10217,"ADO Den Haag",NA,154,160,366
+"32",10217,"ADO Den Haag",160,151,159,366
+"33",10217,"ADO Den Haag",162,145,142,366
+"34",8593,"Ajax",NA,180,90,647
+"35",8593,"Ajax",NA,199,185,647
+"36",8593,"Ajax",NA,149,193,647
+"37",8593,"Ajax",NA,137,183,647
+"38",8593,"Ajax",110,145,181,647
+"39",8593,"Ajax",117,143,176,647
+"40",9865,"UD Almería",NA,160,165,202
+"41",9865,"UD Almería",NA,180,193,202
+"42",9865,"UD Almería",NA,151,135,202
+"43",9865,"UD Almería",NA,151,135,202
+"44",9865,"UD Almería",152,151,135,202
+"45",9865,"UD Almería",152,151,135,202
+"46",8635,"RSC Anderlecht",NA,180,190,427
+"47",8635,"RSC Anderlecht",NA,180,190,427
+"48",8635,"RSC Anderlecht",NA,157,140,427
+"49",8635,"RSC Anderlecht",NA,182,168,427
+"50",8635,"RSC Anderlecht",149,160,175,427
+"51",8635,"RSC Anderlecht",149,160,164,427
+"52",8121,"Angers SCO",NA,145,115,40
+"53",8121,"Angers SCO",NA,180,140,40
+"54",8121,"Angers SCO",NA,152,139,40
+"55",8121,"Angers SCO",NA,152,139,40
+"56",8121,"Angers SCO",159,140,139,40
+"57",8121,"Angers SCO",159,140,139,40
+"58",8322,"Arka Gdynia",NA,150,205,77
+"59",8322,"Arka Gdynia",NA,147,140,77
+"60",108893,"AC Arles-Avignon",NA,95,115,21
+"61",108893,"AC Arles-Avignon",NA,105,105,21
+"62",108893,"AC Arles-Avignon",NA,132,112,21
+"63",108893,"AC Arles-Avignon",NA,141,140,21
+"64",108893,"AC Arles-Avignon",141,132,154,21
+"65",108893,"AC Arles-Avignon",156,138,158,21
+"66",9912,"DSC Arminia Bielefeld",NA,165,135,29
+"67",9912,"DSC Arminia Bielefeld",NA,120,136,29
+"68",9912,"DSC Arminia Bielefeld",166,159,138,29
+"69",158085,"FC Arouca",174,160,109,101
+"70",158085,"FC Arouca",170,160,113,101
+"71",9825,"Arsenal",NA,110,120,573
+"72",9825,"Arsenal",NA,150,135,573
+"73",9825,"Arsenal",NA,105,166,573
+"74",9825,"Arsenal",NA,135,170,573
+"75",9825,"Arsenal",136,147,147,573
+"76",9825,"Arsenal",140,118,147,573
+"77",10252,"Aston Villa",NA,185,130,335
+"78",10252,"Aston Villa",NA,150,145,335
+"79",10252,"Aston Villa",NA,160,145,335
+"80",10252,"Aston Villa",NA,141,134,335
+"81",10252,"Aston Villa",170,167,133,335
+"82",10252,"Aston Villa",154,146,133,335
+"83",8524,"Atalanta",NA,120,115,283
+"84",8524,"Atalanta",NA,170,165,283
+"85",8524,"Atalanta",NA,150,147,283
+"86",8524,"Atalanta",NA,138,156,283
+"87",8524,"Atalanta",146,138,151,283
+"88",8524,"Atalanta",146,138,148,283
+"89",8315,"Athletic Club de Bilbao",NA,160,135,415
+"90",8315,"Athletic Club de Bilbao",NA,184,170,415
+"91",8315,"Athletic Club de Bilbao",NA,173,165,415
+"92",8315,"Athletic Club de Bilbao",NA,162,165,415
+"93",8315,"Athletic Club de Bilbao",125,157,162,415
+"94",8315,"Athletic Club de Bilbao",131,146,156,415
+"95",9906,"Atlético Madrid",NA,185,159,524
+"96",9906,"Atlético Madrid",NA,206,160,524
+"97",9906,"Atlético Madrid",NA,184,144,524
+"98",9906,"Atlético Madrid",NA,189,144,524
+"99",9906,"Atlético Madrid",150,188,144,524
+"100",9906,"Atlético Madrid",157,172,143,524
+"101",8406,"FC Augsburg",NA,175,145,201
+"102",8406,"FC Augsburg",NA,188,150,201
+"103",8406,"FC Augsburg",NA,161,161,201
+"104",8406,"FC Augsburg",NA,174,128,201
+"105",8406,"FC Augsburg",169,160,154,201
+"106",8406,"FC Augsburg",165,166,143,201
+"107",8583,"AJ Auxerre",NA,135,115,168
+"108",8583,"AJ Auxerre",NA,150,145,168
+"109",8583,"AJ Auxerre",NA,164,115,168
+"110",8583,"AJ Auxerre",NA,164,120,168
+"111",8583,"AJ Auxerre",168,164,115,168
+"112",8583,"AJ Auxerre",168,164,119,168
+"113",10229,"AZ",NA,130,110,492
+"114",10229,"AZ",NA,185,175,492
+"115",10229,"AZ",NA,147,184,492
+"116",10229,"AZ",NA,167,174,492
+"117",10229,"AZ",136,168,166,492
+"118",10229,"AZ",154,173,166,492
+"119",8634,"FC Barcelona",NA,175,170,849
+"120",8634,"FC Barcelona",NA,152,178,849
+"121",8634,"FC Barcelona",NA,115,195,849
+"122",8634,"FC Barcelona",NA,103,189,849
+"123",8634,"FC Barcelona",102,103,189,849
+"124",8634,"FC Barcelona",122,141,191,849
+"125",9976,"Bari",NA,135,115,76
+"126",9976,"Bari",NA,193,160,76
+"127",9976,"Bari",NA,135,140,76
+"128",9976,"Bari",NA,158,161,76
+"129",9976,"Bari",152,154,153,76
+"130",9976,"Bari",157,143,156,76
+"131",9931,"FC Basel",NA,165,180,619
+"132",9931,"FC Basel",NA,154,146,619
+"133",9931,"FC Basel",NA,186,158,619
+"134",9931,"FC Basel",NA,186,158,619
+"135",9931,"FC Basel",170,186,158,619
+"136",9931,"FC Basel",170,186,158,619
+"137",8178,"Bayer 04 Leverkusen",NA,210,200,483
+"138",8178,"Bayer 04 Leverkusen",NA,153,147,483
+"139",8178,"Bayer 04 Leverkusen",NA,163,139,483
+"140",8178,"Bayer 04 Leverkusen",NA,143,143,483
+"141",8178,"Bayer 04 Leverkusen",154,146,150,483
+"142",8178,"Bayer 04 Leverkusen",157,192,183,483
+"143",9823,"FC Bayern Munich",NA,205,175,653
+"144",9823,"FC Bayern Munich",NA,136,156,653
+"145",9823,"FC Bayern Munich",NA,120,134,653
+"146",9823,"FC Bayern Munich",NA,123,158,653
+"147",9823,"FC Bayern Munich",93,99,160,653
+"148",9823,"FC Bayern Munich",97,90,184,653
+"149",9993,"Beerschot AC",NA,135,210,174
+"150",9993,"Beerschot AC",NA,185,115,174
+"151",9993,"Beerschot AC",NA,142,141,174
+"152",9993,"Beerschot AC",NA,151,158,174
+"153",10211,"SC Beira Mar",NA,157,155,93
+"154",10211,"SC Beira Mar",NA,165,150,93
+"155",10211,"SC Beira Mar",NA,165,150,93
+"156",9807,"CF Os Belenenses",NA,160,90,148
+"157",9807,"CF Os Belenenses",157,125,135,148
+"158",9807,"CF Os Belenenses",156,128,135,148
+"159",6493,"AC Bellinzona",NA,175,150,128
+"160",6493,"AC Bellinzona",NA,148,138,128
+"161",9772,"SL Benfica",NA,170,90,568
+"162",9772,"SL Benfica",NA,171,171,568
+"163",9772,"SL Benfica",NA,179,169,568
+"164",9772,"SL Benfica",NA,179,175,568
+"165",9772,"SL Benfica",178,185,171,568
+"166",9772,"SL Benfica",177,185,171,568
+"167",8658,"Birmingham City",NA,210,210,75
+"168",8658,"Birmingham City",NA,125,135,75
+"169",8658,"Birmingham City",NA,159,144,75
+"170",8658,"Birmingham City",NA,157,140,75
+"171",8658,"Birmingham City",174,204,144,75
+"172",8658,"Birmingham City",163,203,143,75
+"173",8655,"Blackburn Rovers",NA,185,160,175
+"174",8655,"Blackburn Rovers",NA,135,160,175
+"175",8655,"Blackburn Rovers",NA,140,130,175
+"176",8655,"Blackburn Rovers",NA,147,130,175
+"177",8655,"Blackburn Rovers",137,164,147,175
+"178",8655,"Blackburn Rovers",185,159,157,175
+"179",8483,"Blackpool",NA,205,210,55
+"180",8483,"Blackpool",NA,160,140,55
+"181",8483,"Blackpool",NA,176,155,55
+"182",8483,"Blackpool",NA,176,155,55
+"183",8483,"Blackpool",183,176,131,55
+"184",8483,"Blackpool",162,166,131,55
+"185",8613,"Boavista FC",153,128,148,51
+"186",9911,"VfL Bochum",NA,150,140,72
+"187",9911,"VfL Bochum",NA,156,164,72
+"188",9911,"VfL Bochum",NA,142,136,72
+"189",9911,"VfL Bochum",NA,142,134,72
+"190",9911,"VfL Bochum",140,141,136,72
+"191",9911,"VfL Bochum",164,172,172,72
+"192",9857,"Bologna",NA,165,135,263
+"193",9857,"Bologna",NA,120,130,263
+"194",9857,"Bologna",NA,120,130,263
+"195",9857,"Bologna",NA,175,134,263
+"196",9857,"Bologna",164,132,130,263
+"197",9857,"Bologna",164,132,132,263
+"198",8559,"Bolton Wanderers",NA,185,140,181
+"199",8559,"Bolton Wanderers",NA,175,145,181
+"200",8559,"Bolton Wanderers",NA,153,154,181
+"201",8559,"Bolton Wanderers",NA,134,145,181
+"202",8559,"Bolton Wanderers",167,171,145,181
+"203",8559,"Bolton Wanderers",152,170,145,181
+"204",9827,"Girondins de Bordeaux",NA,190,195,404
+"205",9827,"Girondins de Bordeaux",NA,180,165,404
+"206",9827,"Girondins de Bordeaux",NA,164,139,404
+"207",9827,"Girondins de Bordeaux",NA,164,139,404
+"208",9827,"Girondins de Bordeaux",123,155,119,404
+"209",9827,"Girondins de Bordeaux",139,156,158,404
+"210",9789,"Borussia Dortmund",NA,170,177,551
+"211",9789,"Borussia Dortmund",NA,177,172,551
+"212",9789,"Borussia Dortmund",NA,181,173,551
+"213",9789,"Borussia Dortmund",NA,194,178,551
+"214",9789,"Borussia Dortmund",170,170,171,551
+"215",9789,"Borussia Dortmund",148,163,176,551
+"216",9788,"Borussia Mönchengladbach",NA,185,160,403
+"217",9788,"Borussia Mönchengladbach",NA,172,156,403
+"218",9788,"Borussia Mönchengladbach",NA,157,114,403
+"219",9788,"Borussia Mönchengladbach",NA,144,127,403
+"220",9788,"Borussia Mönchengladbach",116,113,134,403
+"221",9788,"Borussia Mönchengladbach",116,113,128,403
+"222",4170,"US Boulogne Cote D'Opale",NA,150,200,31
+"223",4170,"US Boulogne Cote D'Opale",NA,165,155,31
+"224",4170,"US Boulogne Cote D'Opale",NA,154,155,31
+"225",8678,"Bournemouth",NA,200,210,45
+"226",8678,"Bournemouth",NA,148,121,45
+"227",8678,"Bournemouth",NA,166,160,45
+"228",8678,"Bournemouth",NA,149,160,45
+"229",8678,"Bournemouth",139,135,160,45
+"230",8678,"Bournemouth",130,141,160,45
+"231",10264,"SC Braga",NA,165,90,398
+"232",10264,"SC Braga",NA,165,150,398
+"233",10264,"SC Braga",NA,158,110,398
+"234",10264,"SC Braga",NA,158,120,398
+"235",10264,"SC Braga",143,157,120,398
+"236",10264,"SC Braga",145,166,120,398
+"237",9858,"Brescia",NA,155,130,34
+"238",9858,"Brescia",NA,180,145,34
+"239",9858,"Brescia",NA,120,130,34
+"240",9858,"Brescia",NA,145,155,34
+"241",9858,"Brescia",125,154,150,34
+"242",9858,"Brescia",141,158,150,34
+"243",8521,"Stade Brestois 29",NA,130,210,99
+"244",8521,"Stade Brestois 29",NA,165,165,99
+"245",8521,"Stade Brestois 29",NA,168,129,99
+"246",8521,"Stade Brestois 29",NA,168,129,99
+"247",8521,"Stade Brestois 29",161,168,129,99
+"248",8521,"Stade Brestois 29",161,168,129,99
+"249",8191,"Burnley",NA,210,205,70
+"250",8191,"Burnley",NA,172,146,70
+"251",8191,"Burnley",NA,162,160,70
+"252",8191,"Burnley",NA,163,156,70
+"253",8191,"Burnley",154,189,169,70
+"254",8191,"Burnley",153,176,183,70
+"255",7819,"SM Caen",NA,155,205,220
+"256",7819,"SM Caen",NA,165,165,220
+"257",7819,"SM Caen",NA,155,143,220
+"258",7819,"SM Caen",NA,155,143,220
+"259",7819,"SM Caen",157,155,136,220
+"260",7819,"SM Caen",157,155,136,220
+"261",8529,"Cagliari",NA,120,155,309
+"262",8529,"Cagliari",NA,165,141,309
+"263",8529,"Cagliari",NA,165,140,309
+"264",8529,"Cagliari",NA,168,153,309
+"265",8529,"Cagliari",167,152,144,309
+"266",8529,"Cagliari",134,196,187,309
+"267",7788,"SC Cambuur",126,159,138,119
+"268",7788,"SC Cambuur",136,134,138,119
+"269",8344,"Cardiff City",NA,210,210,32
+"270",8344,"Cardiff City",NA,182,146,32
+"271",8344,"Cardiff City",NA,154,146,32
+"272",8344,"Cardiff City",NA,175,146,32
+"273",8344,"Cardiff City",143,139,113,32
+"274",8344,"Cardiff City",168,154,113,32
+"275",208931,"Carpi",109,137,141,37
+"276",208931,"Carpi",190,160,115,37
+"277",8530,"Catania",NA,120,140,251
+"278",8530,"Catania",NA,178,140,251
+"279",8530,"Catania",NA,150,110,251
+"280",8530,"Catania",NA,171,146,251
+"281",8530,"Catania",175,141,147,251
+"282",8530,"Catania",170,141,147,251
+"283",9910,"RC Celta de Vigo",NA,160,115,184
+"284",9910,"RC Celta de Vigo",NA,158,128,184
+"285",9910,"RC Celta de Vigo",NA,179,162,184
+"286",9910,"RC Celta de Vigo",NA,179,162,184
+"287",9910,"RC Celta de Vigo",169,179,159,184
+"288",9910,"RC Celta de Vigo",152,139,169,184
+"289",9925,"Celtic",NA,205,200,695
+"290",9925,"Celtic",NA,170,159,695
+"291",9925,"Celtic",NA,172,160,695
+"292",9925,"Celtic",NA,175,166,695
+"293",9925,"Celtic",180,178,165,695
+"294",9925,"Celtic",156,164,169,695
+"295",9984,"KSV Cercle Brugge",NA,170,195,213
+"296",9984,"KSV Cercle Brugge",NA,200,180,213
+"297",9984,"KSV Cercle Brugge",NA,165,168,213
+"298",9984,"KSV Cercle Brugge",NA,165,168,213
+"299",9984,"KSV Cercle Brugge",145,152,168,213
+"300",9984,"KSV Cercle Brugge",145,152,168,213
+"301",9880,"Cesena",NA,145,130,98
+"302",9880,"Cesena",NA,120,140,98
+"303",9880,"Cesena",NA,150,130,98
+"304",9880,"Cesena",NA,170,145,98
+"305",9880,"Cesena",143,170,145,98
+"306",9880,"Cesena",138,163,145,98
+"307",8455,"Chelsea",NA,196,125,583
+"308",8455,"Chelsea",NA,200,140,583
+"309",8455,"Chelsea",NA,145,168,583
+"310",8455,"Chelsea",NA,170,131,583
+"311",8455,"Chelsea",157,170,126,583
+"312",8455,"Chelsea",144,119,126,583
+"313",8533,"Chievo Verona",NA,145,165,285
+"314",8533,"Chievo Verona",NA,129,157,285
+"315",8533,"Chievo Verona",NA,165,120,285
+"316",8533,"Chievo Verona",NA,169,136,285
+"317",8533,"Chievo Verona",187,170,156,285
+"318",8533,"Chievo Verona",187,170,156,285
+"319",8342,"Club Brugge KV",NA,140,200,421
+"320",8342,"Club Brugge KV",NA,170,148,421
+"321",8342,"Club Brugge KV",NA,156,162,421
+"322",8342,"Club Brugge KV",NA,156,147,421
+"323",8342,"Club Brugge KV",139,146,158,421
+"324",8342,"Club Brugge KV",139,146,158,421
+"325",7869,"Córdoba CF",NA,140,105,22
+"326",7869,"Córdoba CF",NA,128,122,22
+"327",7869,"Córdoba CF",NA,159,129,22
+"328",7869,"Córdoba CF",NA,159,129,22
+"329",7869,"Córdoba CF",146,154,129,22
+"330",7869,"Córdoba CF",141,171,129,22
+"331",2186,"Cracovia",NA,140,205,235
+"332",2186,"Cracovia",NA,148,144,235
+"333",2186,"Cracovia",NA,168,163,235
+"334",2186,"Cracovia",125,165,157,235
+"335",2186,"Cracovia",125,165,157,235
+"336",9826,"Crystal Palace",NA,205,185,119
+"337",9826,"Crystal Palace",NA,169,124,119
+"338",9826,"Crystal Palace",NA,182,124,119
+"339",9826,"Crystal Palace",NA,182,122,119
+"340",9826,"Crystal Palace",165,181,118,119
+"341",9826,"Crystal Palace",173,186,111,119
+"342",8262,"SV Darmstadt 98",179,174,129,38
+"343",8526,"De Graafschap",NA,153,137,130
+"344",8526,"De Graafschap",NA,150,136,130
+"345",9783,"RC Deportivo de La Coruña",NA,140,115,241
+"346",9783,"RC Deportivo de La Coruña",NA,187,151,241
+"347",9783,"RC Deportivo de La Coruña",NA,158,154,241
+"348",9783,"RC Deportivo de La Coruña",NA,158,154,241
+"349",9783,"RC Deportivo de La Coruña",157,158,154,241
+"350",9783,"RC Deportivo de La Coruña",155,145,154,241
+"351",9836,"Dijon FCO",NA,135,120,38
+"352",9836,"Dijon FCO",NA,165,130,38
+"353",9836,"Dijon FCO",NA,153,149,38
+"354",9836,"Dijon FCO",NA,153,149,38
+"355",9836,"Dijon FCO",154,153,149,38
+"356",9836,"Dijon FCO",154,153,149,38
+"357",8284,"Dundee FC",NA,151,154,127
+"358",8284,"Dundee FC",142,158,146,127
+"359",9938,"Dundee United",NA,205,200,438
+"360",9938,"Dundee United",NA,187,177,438
+"361",9938,"Dundee United",NA,135,130,438
+"362",9938,"Dundee United",NA,150,134,438
+"363",9938,"Dundee United",171,145,133,438
+"364",9938,"Dundee United",171,149,143,438
+"365",8457,"Dunfermline Athletic",NA,168,148,40
+"366",8372,"SD Eibar",165,179,142,83
+"367",8372,"SD Eibar",165,166,142,83
+"368",9776,"Eintracht Braunschweig",NA,180,144,29
+"369",9776,"Eintracht Braunschweig",NA,195,157,29
+"370",9776,"Eintracht Braunschweig",183,157,109,29
+"371",9776,"Eintracht Braunschweig",164,172,157,29
+"372",9810,"Eintracht Frankfurt",NA,165,140,296
+"373",9810,"Eintracht Frankfurt",NA,165,151,296
+"374",9810,"Eintracht Frankfurt",NA,140,145,296
+"375",9810,"Eintracht Frankfurt",NA,140,148,296
+"376",9810,"Eintracht Frankfurt",153,159,144,296
+"377",9810,"Eintracht Frankfurt",130,145,145,296
+"378",10268,"Elche CF",NA,165,140,65
+"379",10268,"Elche CF",NA,141,130,65
+"380",10268,"Elche CF",NA,164,158,65
+"381",10268,"Elche CF",NA,164,158,65
+"382",10268,"Elche CF",171,164,158,65
+"383",10268,"Elche CF",151,164,158,65
+"384",8534,"Empoli",NA,115,90,86
+"385",8534,"Empoli",NA,155,137,86
+"386",8534,"Empoli",NA,150,130,86
+"387",8534,"Empoli",NA,169,148,86
+"388",8534,"Empoli",145,184,164,86
+"389",8534,"Empoli",145,186,160,86
+"390",8398,"FC Energie Cottbus",NA,130,206,30
+"391",8398,"FC Energie Cottbus",NA,161,146,30
+"392",8398,"FC Energie Cottbus",NA,167,156,30
+"393",8398,"FC Energie Cottbus",NA,167,156,30
+"394",8398,"FC Energie Cottbus",126,175,154,30
+"395",8558,"RCD Espanyol",NA,195,180,338
+"396",8558,"RCD Espanyol",NA,196,165,338
+"397",8558,"RCD Espanyol",NA,152,122,338
+"398",8558,"RCD Espanyol",NA,152,122,338
+"399",8558,"RCD Espanyol",146,152,122,338
+"400",8558,"RCD Espanyol",146,152,122,338
+"401",7842,"Estoril Praia",NA,139,150,167
+"402",7842,"Estoril Praia",174,139,150,167
+"403",7842,"Estoril Praia",167,139,150,167
+"404",6351,"KAS Eupen",NA,160,155,28
+"405",8668,"Everton",NA,175,150,439
+"406",8668,"Everton",NA,180,180,439
+"407",8668,"Everton",NA,161,160,439
+"408",8668,"Everton",NA,139,144,439
+"409",8668,"Everton",137,146,170,439
+"410",8668,"Everton",128,135,169,439
+"411",4087,"Évian Thonon Gaillard FC",NA,180,165,180
+"412",4087,"Évian Thonon Gaillard FC",NA,168,153,180
+"413",4087,"Évian Thonon Gaillard FC",NA,168,153,180
+"414",4087,"Évian Thonon Gaillard FC",156,161,153,180
+"415",4087,"Évian Thonon Gaillard FC",149,164,140,180
+"416",10218,"Excelsior",NA,162,105,154
+"417",10218,"Excelsior",NA,145,85,154
+"418",10218,"Excelsior",163,136,106,154
+"419",8596,"Falkirk",NA,200,200,68
+"420",8722,"1. FC Köln",NA,165,170,226
+"421",8722,"1. FC Köln",NA,131,136,226
+"422",8722,"1. FC Köln",NA,158,165,226
+"423",8722,"1. FC Köln",NA,158,165,226
+"424",8722,"1. FC Köln",169,159,157,226
+"425",8722,"1. FC Köln",171,164,149,226
+"426",6631,"FC Dordrecht",134,176,164,24
+"427",8674,"FC Groningen",NA,156,90,390
+"428",8674,"FC Groningen",NA,177,136,390
+"429",8674,"FC Groningen",NA,154,149,390
+"430",8674,"FC Groningen",NA,156,149,390
+"431",8674,"FC Groningen",128,161,149,390
+"432",8674,"FC Groningen",142,170,149,390
+"433",9773,"FC Porto",NA,180,90,541
+"434",9773,"FC Porto",NA,180,163,541
+"435",9773,"FC Porto",NA,196,170,541
+"436",9773,"FC Porto",NA,196,175,541
+"437",9773,"FC Porto",155,190,178,541
+"438",9773,"FC Porto",173,190,178,541
+"439",9908,"FC Utrecht",NA,150,90,408
+"440",9908,"FC Utrecht",NA,182,125,408
+"441",9908,"FC Utrecht",NA,158,141,408
+"442",9908,"FC Utrecht",NA,166,141,408
+"443",9908,"FC Utrecht",152,156,141,408
+"444",9908,"FC Utrecht",143,147,159,408
+"445",9824,"FC Vaduz",141,137,133,100
+"446",10243,"FC Zürich",NA,165,155,468
+"447",10243,"FC Zürich",NA,165,163,468
+"448",10243,"FC Zürich",NA,154,146,468
+"449",10243,"FC Zürich",NA,154,146,468
+"450",10243,"FC Zürich",157,151,146,468
+"451",10243,"FC Zürich",157,151,146,468
+"452",10235,"Feyenoord",NA,131,90,489
+"453",10235,"Feyenoord",NA,108,160,489
+"454",10235,"Feyenoord",NA,154,140,489
+"455",10235,"Feyenoord",NA,160,126,489
+"456",10235,"Feyenoord",154,165,126,489
+"457",10235,"Feyenoord",131,146,129,489
+"458",8535,"Fiorentina",NA,170,135,440
+"459",8535,"Fiorentina",NA,170,140,440
+"460",8535,"Fiorentina",NA,165,140,440
+"461",8535,"Fiorentina",NA,168,145,440
+"462",8535,"Fiorentina",121,172,184,440
+"463",8535,"Fiorentina",121,172,178,440
+"464",8194,"Fortuna Düsseldorf",NA,172,169,39
+"465",8194,"Fortuna Düsseldorf",NA,146,139,39
+"466",8194,"Fortuna Düsseldorf",NA,190,165,39
+"467",8194,"Fortuna Düsseldorf",NA,175,117,39
+"468",8194,"Fortuna Düsseldorf",198,141,145,39
+"469",8194,"Fortuna Düsseldorf",156,178,165,39
+"470",8358,"SC Freiburg",NA,160,155,245
+"471",8358,"SC Freiburg",NA,122,133,245
+"472",8358,"SC Freiburg",NA,154,119,245
+"473",8358,"SC Freiburg",NA,137,152,245
+"474",8358,"SC Freiburg",145,132,158,245
+"475",8358,"SC Freiburg",151,144,144,245
+"476",9891,"Frosinone",NA,140,125,35
+"477",9891,"Frosinone",NA,156,193,35
+"478",9891,"Frosinone",157,151,159,35
+"479",9879,"Fulham",NA,190,115,265
+"480",9879,"Fulham",NA,140,130,265
+"481",9879,"Fulham",NA,154,138,265
+"482",9879,"Fulham",NA,164,135,265
+"483",9879,"Fulham",142,153,96,265
+"484",9879,"Fulham",134,152,98,265
+"485",9987,"KRC Genk",NA,145,205,348
+"486",9987,"KRC Genk",NA,182,149,348
+"487",9987,"KRC Genk",NA,159,147,348
+"488",9987,"KRC Genk",NA,171,147,348
+"489",9987,"KRC Genk",148,171,147,348
+"490",9987,"KRC Genk",148,155,163,348
+"491",10233,"Genoa",NA,175,135,392
+"492",10233,"Genoa",NA,150,154,392
+"493",10233,"Genoa",NA,150,140,392
+"494",10233,"Genoa",NA,182,146,392
+"495",10233,"Genoa",184,168,123,392
+"496",10233,"Genoa",184,134,127,392
+"497",9991,"KAA Gent",NA,170,135,390
+"498",9991,"KAA Gent",NA,184,138,390
+"499",9991,"KAA Gent",NA,168,145,390
+"500",9991,"KAA Gent",NA,128,143,390
+"501",9991,"KAA Gent",142,128,166,390
+"502",9991,"KAA Gent",142,142,155,390
+"503",8305,"Getafe CF",NA,155,120,345
+"504",8305,"Getafe CF",NA,149,164,345
+"505",8305,"Getafe CF",NA,152,141,345
+"506",8305,"Getafe CF",NA,152,141,345
+"507",8305,"Getafe CF",117,152,141,345
+"508",8305,"Getafe CF",113,143,134,345
+"509",6391,"GFC Ajaccio",NA,179,146,37
+"510",6391,"GFC Ajaccio",153,163,141,37
+"511",9764,"Gil Vicente FC",NA,152,149,110
+"512",9764,"Gil Vicente FC",NA,152,149,110
+"513",9764,"Gil Vicente FC",173,147,132,110
+"514",9764,"Gil Vicente FC",176,147,132,110
+"515",8569,"GKS Bełchatów",NA,155,200,190
+"516",8569,"GKS Bełchatów",NA,150,145,190
+"517",8569,"GKS Bełchatów",NA,175,127,190
+"518",8569,"GKS Bełchatów",NA,139,132,190
+"519",8569,"GKS Bełchatów",143,139,132,190
+"520",6433,"Go Ahead Eagles",144,132,141,74
+"521",6433,"Go Ahead Eagles",160,131,141,74
+"522",8019,"Górnik Łęczna",140,139,149,61
+"523",8020,"Polonia Bytom",NA,150,185,245
+"524",8020,"Polonia Bytom",NA,122,162,245
+"525",7878,"Granada CF",NA,168,170,179
+"526",7878,"Granada CF",NA,200,162,179
+"527",7878,"Granada CF",NA,200,162,179
+"528",7878,"Granada CF",151,187,158,179
+"529",7878,"Granada CF",166,175,155,179
+"530",9956,"Grasshopper Club Zürich",NA,180,160,429
+"531",9956,"Grasshopper Club Zürich",NA,184,153,429
+"532",9956,"Grasshopper Club Zürich",NA,152,126,429
+"533",9956,"Grasshopper Club Zürich",NA,152,126,429
+"534",9956,"Grasshopper Club Zürich",164,152,126,429
+"535",9956,"Grasshopper Club Zürich",164,152,126,429
+"536",9855,"Grenoble Foot 38",NA,195,195,55
+"537",9855,"Grenoble Foot 38",NA,150,140,55
+"538",8357,"SpVgg Greuther Fürth",NA,170,155,26
+"539",8357,"SpVgg Greuther Fürth",NA,158,158,26
+"540",8357,"SpVgg Greuther Fürth",NA,141,170,26
+"541",8357,"SpVgg Greuther Fürth",NA,149,125,26
+"542",8357,"SpVgg Greuther Fürth",164,148,159,26
+"543",8357,"SpVgg Greuther Fürth",167,149,170,26
+"544",9747,"En Avant de Guingamp",NA,170,125,122
+"545",9747,"En Avant de Guingamp",NA,150,125,122
+"546",9747,"En Avant de Guingamp",NA,161,138,122
+"547",9747,"En Avant de Guingamp",169,150,139,122
+"548",9747,"En Avant de Guingamp",158,134,145,122
+"549",9790,"Hamburger SV",NA,200,175,344
+"550",9790,"Hamburger SV",NA,173,167,344
+"551",9790,"Hamburger SV",NA,154,150,344
+"552",9790,"Hamburger SV",NA,141,138,344
+"553",9790,"Hamburger SV",164,195,140,344
+"554",9790,"Hamburger SV",150,167,134,344
+"555",8429,"Hamilton Academical FC",NA,200,195,185
+"556",8429,"Hamilton Academical FC",NA,139,145,185
+"557",8429,"Hamilton Academical FC",143,197,155,185
+"558",9904,"Hannover 96",NA,175,210,359
+"559",9904,"Hannover 96",NA,151,129,359
+"560",9904,"Hannover 96",NA,171,131,359
+"561",9904,"Hannover 96",NA,146,134,359
+"562",9904,"Hannover 96",141,129,141,359
+"563",9904,"Hannover 96",144,129,146,359
+"564",9860,"Heart of Midlothian",NA,210,200,317
+"565",9860,"Heart of Midlothian",NA,187,190,317
+"566",9860,"Heart of Midlothian",NA,175,159,317
+"567",9860,"Heart of Midlothian",NA,183,162,317
+"568",9860,"Heart of Midlothian",168,176,158,317
+"569",9791,"Heracles Almelo",NA,133,90,403
+"570",9791,"Heracles Almelo",NA,155,136,403
+"571",9791,"Heracles Almelo",NA,173,123,403
+"572",9791,"Heracles Almelo",NA,148,137,403
+"573",9791,"Heracles Almelo",133,165,169,403
+"574",9791,"Heracles Almelo",147,165,169,403
+"575",10278,"Hércules Club de Fútbol",NA,155,120,36
+"576",10278,"Hércules Club de Fútbol",NA,152,159,36
+"577",10278,"Hércules Club de Fútbol",NA,178,160,36
+"578",10278,"Hércules Club de Fútbol",NA,178,160,36
+"579",10278,"Hércules Club de Fútbol",154,178,160,36
+"580",8177,"Hertha BSC Berlin",NA,155,140,238
+"581",8177,"Hertha BSC Berlin",NA,172,148,238
+"582",8177,"Hertha BSC Berlin",NA,142,155,238
+"583",8177,"Hertha BSC Berlin",NA,172,143,238
+"584",8177,"Hertha BSC Berlin",175,169,152,238
+"585",8177,"Hertha BSC Berlin",146,172,152,238
+"586",10251,"Hibernian",NA,200,200,259
+"587",10251,"Hibernian",NA,168,145,259
+"588",10251,"Hibernian",NA,138,122,259
+"589",10251,"Hibernian",NA,150,153,259
+"590",10251,"Hibernian",148,139,124,259
+"591",8226,"TSG 1899 Hoffenheim",NA,180,200,400
+"592",8226,"TSG 1899 Hoffenheim",NA,191,170,400
+"593",8226,"TSG 1899 Hoffenheim",NA,158,146,400
+"594",8226,"TSG 1899 Hoffenheim",NA,162,144,400
+"595",8226,"TSG 1899 Hoffenheim",180,161,167,400
+"596",8226,"TSG 1899 Hoffenheim",171,187,162,400
+"597",8667,"Hull City",NA,195,210,144
+"598",8667,"Hull City",NA,165,159,144
+"599",8667,"Hull City",NA,152,126,144
+"600",8667,"Hull City",NA,152,117,144
+"601",8667,"Hull City",142,162,121,144
+"602",8667,"Hull City",151,159,121,144
+"603",8234,"FC Ingolstadt 04",NA,151,140,33
+"604",8234,"FC Ingolstadt 04",NA,151,124,33
+"605",8234,"FC Ingolstadt 04",NA,151,124,33
+"606",8234,"FC Ingolstadt 04",160,138,127,33
+"607",8234,"FC Ingolstadt 04",152,151,134,33
+"608",8636,"Inter",NA,175,165,496
+"609",8636,"Inter",NA,170,165,496
+"610",8636,"Inter",NA,180,125,496
+"611",8636,"Inter",NA,186,131,496
+"612",8636,"Inter",182,203,114,496
+"613",8636,"Inter",181,169,159,496
+"614",8066,"Inverness Caledonian Thistle",NA,154,130,345
+"615",8066,"Inverness Caledonian Thistle",NA,154,126,345
+"616",8066,"Inverness Caledonian Thistle",NA,171,139,345
+"617",8066,"Inverness Caledonian Thistle",169,162,130,345
+"618",8066,"Inverness Caledonian Thistle",127,174,139,345
+"619",1957,"Jagiellonia Białystok",NA,150,210,287
+"620",1957,"Jagiellonia Białystok",NA,151,140,287
+"621",1957,"Jagiellonia Białystok",NA,163,141,287
+"622",1957,"Jagiellonia Białystok",NA,163,141,287
+"623",1957,"Jagiellonia Białystok",130,146,162,287
+"624",1957,"Jagiellonia Białystok",158,152,162,287
+"625",9885,"Juventus",NA,170,155,543
+"626",9885,"Juventus",NA,177,145,543
+"627",9885,"Juventus",NA,180,125,543
+"628",9885,"Juventus",NA,186,169,543
+"629",9885,"Juventus",97,189,126,543
+"630",9885,"Juventus",105,195,135,543
+"631",8350,"1. FC Kaiserslautern",NA,185,210,72
+"632",8350,"1. FC Kaiserslautern",NA,170,139,72
+"633",8350,"1. FC Kaiserslautern",NA,156,141,72
+"634",8350,"1. FC Kaiserslautern",NA,161,151,72
+"635",8350,"1. FC Kaiserslautern",167,174,143,72
+"636",8350,"1. FC Kaiserslautern",155,167,145,72
+"637",8295,"Karlsruher SC",NA,205,170,30
+"638",8295,"Karlsruher SC",NA,183,145,30
+"639",8295,"Karlsruher SC",NA,146,119,30
+"640",8295,"Karlsruher SC",164,148,115,30
+"641",8295,"Karlsruher SC",153,146,119,30
+"642",8597,"Kilmarnock",NA,205,200,346
+"643",8597,"Kilmarnock",NA,140,139,346
+"644",8597,"Kilmarnock",NA,149,138,346
+"645",8597,"Kilmarnock",NA,154,148,346
+"646",8597,"Kilmarnock",167,150,140,346
+"647",8597,"Kilmarnock",158,158,144,346
+"648",8245,"Korona Kielce",NA,150,170,237
+"649",8245,"Korona Kielce",NA,167,172,237
+"650",8245,"Korona Kielce",NA,169,166,237
+"651",8245,"Korona Kielce",NA,169,161,237
+"652",8245,"Korona Kielce",192,153,135,237
+"653",8245,"Korona Kielce",178,153,135,237
+"654",8571,"KV Kortrijk",NA,150,185,267
+"655",8571,"KV Kortrijk",NA,159,138,267
+"656",8571,"KV Kortrijk",NA,154,143,267
+"657",8571,"KV Kortrijk",NA,134,143,267
+"658",8571,"KV Kortrijk",129,134,143,267
+"659",8571,"KV Kortrijk",129,134,143,267
+"660",8203,"KV Mechelen",NA,140,190,285
+"661",8203,"KV Mechelen",NA,146,157,285
+"662",8203,"KV Mechelen",NA,150,160,285
+"663",8203,"KV Mechelen",NA,150,154,285
+"664",8203,"KV Mechelen",134,150,145,285
+"665",8203,"KV Mechelen",134,150,145,285
+"666",8306,"UD Las Palmas",NA,155,125,45
+"667",8306,"UD Las Palmas",NA,187,171,45
+"668",8306,"UD Las Palmas",NA,148,149,45
+"669",8306,"UD Las Palmas",NA,148,149,45
+"670",8306,"UD Las Palmas",147,148,149,45
+"671",8306,"UD Las Palmas",147,148,149,45
+"672",7730,"FC Lausanne-Sports",NA,160,165,99
+"673",7730,"FC Lausanne-Sports",NA,160,141,99
+"674",7730,"FC Lausanne-Sports",NA,160,141,99
+"675",7730,"FC Lausanne-Sports",141,164,145,99
+"676",8543,"Lazio",NA,160,175,417
+"677",8543,"Lazio",NA,136,130,417
+"678",8543,"Lazio",NA,165,130,417
+"679",8543,"Lazio",NA,189,166,417
+"680",8543,"Lazio",172,200,166,417
+"681",8543,"Lazio",188,220,190,417
+"682",9746,"Le Havre AC",NA,155,130,30
+"683",9746,"Le Havre AC",NA,180,155,30
+"684",9746,"Le Havre AC",NA,155,168,30
+"685",9746,"Le Havre AC",NA,155,154,30
+"686",9746,"Le Havre AC",154,155,154,30
+"687",9746,"Le Havre AC",154,155,154,30
+"688",8682,"Le Mans FC",NA,190,200,79
+"689",8682,"Le Mans FC",NA,195,150,79
+"690",8682,"Le Mans FC",NA,167,142,79
+"691",8682,"Le Mans FC",NA,167,142,79
+"692",9888,"Lecce",NA,175,165,121
+"693",9888,"Lecce",NA,162,150,121
+"694",9888,"Lecce",NA,135,140,121
+"695",2182,"Lech Poznań",NA,155,160,372
+"696",2182,"Lech Poznań",NA,186,144,372
+"697",2182,"Lech Poznań",NA,185,157,372
+"698",2182,"Lech Poznań",NA,185,157,372
+"699",2182,"Lech Poznań",176,185,157,372
+"700",2182,"Lech Poznań",147,196,153,372
+"701",8030,"Lechia Gdańsk",NA,150,205,279
+"702",8030,"Lechia Gdańsk",NA,150,153,279
+"703",8030,"Lechia Gdańsk",NA,171,162,279
+"704",8030,"Lechia Gdańsk",NA,171,168,279
+"705",8030,"Lechia Gdańsk",162,165,158,279
+"706",8030,"Lechia Gdańsk",162,183,149,279
+"707",8673,"Legia Warszawa",NA,170,195,409
+"708",8673,"Legia Warszawa",NA,144,173,409
+"709",8673,"Legia Warszawa",NA,145,175,409
+"710",8673,"Legia Warszawa",NA,145,171,409
+"711",8673,"Legia Warszawa",141,167,159,409
+"712",8673,"Legia Warszawa",137,167,168,409
+"713",8197,"Leicester City",NA,185,210,114
+"714",8197,"Leicester City",NA,140,133,114
+"715",8197,"Leicester City",NA,160,154,114
+"716",8197,"Leicester City",NA,160,154,114
+"717",8197,"Leicester City",147,178,174,114
+"718",8197,"Leicester City",164,157,178,114
+"719",6421,"Leixões SC",NA,165,90,55
+"720",8588,"RC Lens",NA,180,200,107
+"721",8588,"RC Lens",NA,180,150,107
+"722",8588,"RC Lens",NA,136,139,107
+"723",8588,"RC Lens",NA,139,135,107
+"724",8588,"RC Lens",165,136,139,107
+"725",8588,"RC Lens",158,148,139,107
+"726",8581,"Levante UD",NA,155,115,241
+"727",8581,"Levante UD",NA,182,138,241
+"728",8581,"Levante UD",NA,168,155,241
+"729",8581,"Levante UD",NA,168,155,241
+"730",8581,"Levante UD",171,168,155,241
+"731",8581,"Levante UD",163,178,111,241
+"732",9989,"Lierse SK",NA,150,139,113
+"733",9989,"Lierse SK",NA,169,159,113
+"734",9989,"Lierse SK",NA,169,152,113
+"735",9989,"Lierse SK",171,169,152,113
+"736",9989,"Lierse SK",171,169,152,113
+"737",8639,"LOSC Lille",NA,150,180,450
+"738",8639,"LOSC Lille",NA,180,145,450
+"739",8639,"LOSC Lille",NA,164,162,450
+"740",8639,"LOSC Lille",NA,164,137,450
+"741",8639,"LOSC Lille",152,169,149,450
+"742",8639,"LOSC Lille",124,184,149,450
+"743",8650,"Liverpool",NA,180,140,531
+"744",8650,"Liverpool",NA,145,160,531
+"745",8650,"Liverpool",NA,174,160,531
+"746",8650,"Liverpool",NA,130,172,531
+"747",8650,"Liverpool",151,136,161,531
+"748",8650,"Liverpool",171,114,164,531
+"749",8537,"Livorno",NA,115,90,66
+"750",8537,"Livorno",NA,160,135,66
+"751",8537,"Livorno",NA,135,115,66
+"752",8537,"Livorno",NA,172,163,66
+"753",8537,"Livorno",183,138,118,66
+"754",8537,"Livorno",183,134,126,66
+"755",8244,"Widzew Łódź",NA,169,158,50
+"756",8244,"Widzew Łódź",NA,185,126,50
+"757",8244,"Widzew Łódź",NA,158,121,50
+"758",8244,"Widzew Łódź",190,184,139,50
+"759",9994,"Sporting Lokeren",NA,140,200,279
+"760",9994,"Sporting Lokeren",NA,146,161,279
+"761",9994,"Sporting Lokeren",NA,151,149,279
+"762",9994,"Sporting Lokeren",NA,131,149,279
+"763",9994,"Sporting Lokeren",159,154,149,279
+"764",9994,"Sporting Lokeren",159,154,149,279
+"765",8689,"FC Lorient",NA,120,200,378
+"766",8689,"FC Lorient",NA,180,155,378
+"767",8689,"FC Lorient",NA,165,138,378
+"768",8689,"FC Lorient",NA,165,138,378
+"769",8689,"FC Lorient",158,165,138,378
+"770",8689,"FC Lorient",149,147,162,378
+"771",10199,"FC Luzern",NA,175,135,421
+"772",10199,"FC Luzern",NA,161,153,421
+"773",10199,"FC Luzern",NA,159,145,421
+"774",10199,"FC Luzern",NA,159,145,421
+"775",10199,"FC Luzern",165,160,151,421
+"776",10199,"FC Luzern",165,160,151,421
+"777",9748,"Olympique Lyonnais",NA,185,200,497
+"778",9748,"Olympique Lyonnais",NA,180,155,497
+"779",9748,"Olympique Lyonnais",NA,170,140,497
+"780",9748,"Olympique Lyonnais",NA,170,140,497
+"781",9748,"Olympique Lyonnais",161,170,140,497
+"782",9748,"Olympique Lyonnais",161,170,140,497
+"783",9905,"1. FSV Mainz 05",NA,185,170,320
+"784",9905,"1. FSV Mainz 05",NA,174,153,320
+"785",9905,"1. FSV Mainz 05",NA,154,170,320
+"786",9905,"1. FSV Mainz 05",NA,148,166,320
+"787",9905,"1. FSV Mainz 05",178,137,165,320
+"788",9905,"1. FSV Mainz 05",156,133,164,320
+"789",9864,"Málaga CF",NA,155,155,377
+"790",9864,"Málaga CF",NA,170,146,377
+"791",9864,"Málaga CF",NA,191,164,377
+"792",9864,"Málaga CF",NA,191,164,377
+"793",9864,"Málaga CF",123,188,164,377
+"794",9864,"Málaga CF",129,131,136,377
+"795",8661,"RCD Mallorca",NA,140,130,238
+"796",8661,"RCD Mallorca",NA,160,150,238
+"797",8661,"RCD Mallorca",NA,163,156,238
+"798",8661,"RCD Mallorca",NA,163,156,238
+"799",8661,"RCD Mallorca",172,163,156,238
+"800",8661,"RCD Mallorca",172,163,156,238
+"801",8456,"Manchester City",NA,195,145,606
+"802",8456,"Manchester City",NA,210,180,606
+"803",8456,"Manchester City",NA,126,164,606
+"804",8456,"Manchester City",NA,121,140,606
+"805",8456,"Manchester City",123,143,140,606
+"806",8456,"Manchester City",123,98,149,606
+"807",10260,"Manchester United",NA,180,130,582
+"808",10260,"Manchester United",NA,200,155,582
+"809",10260,"Manchester United",NA,161,146,582
+"810",10260,"Manchester United",NA,151,154,582
+"811",10260,"Manchester United",134,177,139,582
+"812",10260,"Manchester United",124,133,163,582
+"813",10212,"CS Marítimo",NA,170,90,316
+"814",10212,"CS Marítimo",NA,165,144,316
+"815",10212,"CS Marítimo",NA,185,133,316
+"816",10212,"CS Marítimo",NA,185,133,316
+"817",10212,"CS Marítimo",182,186,126,316
+"818",10212,"CS Marítimo",176,186,133,316
+"819",8592,"Olympique de Marseille",NA,205,200,462
+"820",8592,"Olympique de Marseille",NA,210,175,462
+"821",8592,"Olympique de Marseille",NA,148,143,462
+"822",8592,"Olympique de Marseille",NA,190,146,462
+"823",8592,"Olympique de Marseille",163,186,156,462
+"824",8592,"Olympique de Marseille",169,149,156,462
+"825",8550,"FC Metz",NA,175,110,31
+"826",8550,"FC Metz",NA,150,135,31
+"827",8550,"FC Metz",NA,156,143,31
+"828",8550,"FC Metz",146,156,150,31
+"829",8550,"FC Metz",152,153,127,31
+"830",8549,"Middlesbrough",NA,190,130,28
+"831",8549,"Middlesbrough",NA,176,147,28
+"832",8549,"Middlesbrough",NA,168,122,28
+"833",8549,"Middlesbrough",NA,153,132,28
+"834",8549,"Middlesbrough",144,177,122,28
+"835",8549,"Middlesbrough",138,135,122,28
+"836",9829,"AS Monaco",NA,165,205,287
+"837",9829,"AS Monaco",NA,150,140,287
+"838",9829,"AS Monaco",NA,111,120,287
+"839",9829,"AS Monaco",NA,111,120,287
+"840",9829,"AS Monaco",168,111,120,287
+"841",9829,"AS Monaco",137,133,169,287
+"842",9998,"RAEC Mons",NA,149,138,129
+"843",9998,"RAEC Mons",NA,168,138,129
+"844",9998,"RAEC Mons",160,168,138,129
+"845",10249,"Montpellier Hérault SC",NA,160,210,344
+"846",10249,"Montpellier Hérault SC",NA,135,155,344
+"847",10249,"Montpellier Hérault SC",NA,149,114,344
+"848",10249,"Montpellier Hérault SC",NA,149,114,344
+"849",10249,"Montpellier Hérault SC",157,149,157,344
+"850",10249,"Montpellier Hérault SC",162,142,157,344
+"851",8348,"Moreirense FC",NA,144,138,101
+"852",8348,"Moreirense FC",139,144,138,101
+"853",9927,"Motherwell",NA,205,200,403
+"854",9927,"Motherwell",NA,152,141,403
+"855",9927,"Motherwell",NA,146,142,403
+"856",9927,"Motherwell",NA,154,146,403
+"857",9927,"Motherwell",172,149,146,403
+"858",9927,"Motherwell",165,116,132,403
+"859",274581,"Royal Excel Mouscron",150,150,140,71
+"860",9996,"Royal Excel Mouscron",150,150,140,42
+"861",9996,"Royal Excel Mouscron",150,150,140,42
+"862",9761,"NAC Breda",NA,135,90,294
+"863",9761,"NAC Breda",NA,135,143,294
+"864",9761,"NAC Breda",NA,137,141,294
+"865",9761,"NAC Breda",NA,141,141,294
+"866",9761,"NAC Breda",144,116,132,294
+"867",9761,"NAC Breda",153,128,115,294
+"868",10214,"CD Nacional",NA,165,90,332
+"869",10214,"CD Nacional",NA,165,138,332
+"870",10214,"CD Nacional",NA,165,156,332
+"871",10214,"CD Nacional",NA,165,156,332
+"872",10214,"CD Nacional",143,150,141,332
+"873",10214,"CD Nacional",167,150,141,332
+"874",8481,"AS Nancy-Lorraine",NA,160,210,203
+"875",8481,"AS Nancy-Lorraine",NA,135,140,203
+"876",8481,"AS Nancy-Lorraine",NA,172,139,203
+"877",8481,"AS Nancy-Lorraine",NA,172,139,203
+"878",8481,"AS Nancy-Lorraine",146,172,139,203
+"879",8481,"AS Nancy-Lorraine",146,172,139,203
+"880",9830,"FC Nantes",NA,160,105,135
+"881",9830,"FC Nantes",NA,120,150,135
+"882",9830,"FC Nantes",NA,135,140,135
+"883",9830,"FC Nantes",NA,145,152,135
+"884",9830,"FC Nantes",164,156,152,135
+"885",9830,"FC Nantes",189,153,132,135
+"886",9809,"Naval 1° de Maio",NA,165,90,71
+"887",9809,"Naval 1° de Maio",NA,135,121,71
+"888",8464,"N.E.C.",NA,135,90,310
+"889",8464,"N.E.C.",NA,158,118,310
+"890",8464,"N.E.C.",NA,144,146,310
+"891",8464,"N.E.C.",NA,146,146,310
+"892",8464,"N.E.C.",150,156,141,310
+"893",10261,"Newcastle United",NA,195,155,324
+"894",10261,"Newcastle United",NA,170,140,324
+"895",10261,"Newcastle United",NA,170,142,324
+"896",10261,"Newcastle United",NA,145,131,324
+"897",10261,"Newcastle United",134,137,161,324
+"898",10261,"Newcastle United",152,147,131,324
+"899",9831,"OGC Nice",NA,155,210,342
+"900",9831,"OGC Nice",NA,165,125,342
+"901",9831,"OGC Nice",NA,134,137,342
+"902",9831,"OGC Nice",NA,149,167,342
+"903",9831,"OGC Nice",175,149,167,342
+"904",9831,"OGC Nice",156,153,165,342
+"905",9850,"Norwich City",NA,195,200,160
+"906",9850,"Norwich City",NA,178,136,160
+"907",9850,"Norwich City",NA,180,132,160
+"908",9850,"Norwich City",NA,171,136,160
+"909",9850,"Norwich City",137,164,134,160
+"910",9850,"Norwich City",138,147,128,160
+"911",6269,"Novara",NA,163,151,34
+"912",6269,"Novara",NA,150,130,34
+"913",6269,"Novara",NA,172,147,34
+"914",6269,"Novara",179,168,138,34
+"915",8165,"1. FC Nürnberg",NA,180,150,193
+"916",8165,"1. FC Nürnberg",NA,148,162,193
+"917",8165,"1. FC Nürnberg",NA,148,113,193
+"918",8165,"1. FC Nürnberg",NA,177,140,193
+"919",8165,"1. FC Nürnberg",146,161,148,193
+"920",8165,"1. FC Nürnberg",153,162,114,193
+"921",8388,"CD Numancia",NA,160,140,38
+"922",8388,"CD Numancia",NA,144,144,38
+"923",8388,"CD Numancia",NA,152,158,38
+"924",8388,"CD Numancia",NA,152,158,38
+"925",8388,"CD Numancia",137,152,158,38
+"926",8388,"CD Numancia",137,152,158,38
+"927",8242,"Odra Wodzisław",NA,155,205,50
+"928",2033,"S.C. Olhanense",NA,155,155,138
+"929",2033,"S.C. Olhanense",NA,165,130,138
+"930",2033,"S.C. Olhanense",NA,134,105,138
+"931",2033,"S.C. Olhanense",NA,133,112,138
+"932",2033,"S.C. Olhanense",147,134,105,138
+"933",8573,"KV Oostende",155,140,133,102
+"934",8573,"KV Oostende",155,140,133,102
+"935",8371,"CA Osasuna",NA,165,150,232
+"936",8371,"CA Osasuna",NA,193,177,232
+"937",8371,"CA Osasuna",NA,168,168,232
+"938",8371,"CA Osasuna",NA,168,168,232
+"939",8371,"CA Osasuna",143,168,164,232
+"940",8371,"CA Osasuna",143,168,168,232
+"941",1773,"Oud-Heverlee Leuven",NA,157,137,126
+"942",1773,"Oud-Heverlee Leuven",NA,157,137,126
+"943",1773,"Oud-Heverlee Leuven",153,157,137,126
+"944",6403,"FC Paços de Ferreira",NA,170,90,292
+"945",6403,"FC Paços de Ferreira",NA,148,150,292
+"946",6403,"FC Paços de Ferreira",NA,157,143,292
+"947",6403,"FC Paços de Ferreira",NA,157,139,292
+"948",6403,"FC Paços de Ferreira",117,157,139,292
+"949",6403,"FC Paços de Ferreira",142,169,139,292
+"950",8460,"SC Paderborn 07",NA,139,108,31
+"951",8460,"SC Paderborn 07",NA,141,124,31
+"952",8460,"SC Paderborn 07",NA,168,138,31
+"953",8460,"SC Paderborn 07",NA,168,145,31
+"954",8460,"SC Paderborn 07",174,163,141,31
+"955",8460,"SC Paderborn 07",175,160,108,31
+"956",8540,"Palermo",NA,130,145,351
+"957",8540,"Palermo",NA,165,130,351
+"958",8540,"Palermo",NA,150,140,351
+"959",8540,"Palermo",NA,153,133,351
+"960",8540,"Palermo",158,153,133,351
+"961",8540,"Palermo",168,158,152,351
+"962",9847,"Paris Saint-Germain",NA,160,210,568
+"963",9847,"Paris Saint-Germain",NA,120,165,568
+"964",9847,"Paris Saint-Germain",NA,174,147,568
+"965",9847,"Paris Saint-Germain",NA,174,147,568
+"966",9847,"Paris Saint-Germain",174,191,166,568
+"967",9847,"Paris Saint-Germain",130,158,166,568
+"968",10167,"Parma",NA,170,145,272
+"969",10167,"Parma",NA,168,142,272
+"970",10167,"Parma",NA,165,140,272
+"971",10167,"Parma",NA,153,128,272
+"972",10167,"Parma",152,176,166,272
+"973",10167,"Parma",147,176,132,272
+"974",8426,"Partick Thistle F.C.",135,151,143,135
+"975",8426,"Partick Thistle F.C.",143,160,141,135
+"976",6413,"PEC Zwolle",NA,154,141,204
+"977",6413,"PEC Zwolle",137,161,181,204
+"978",6413,"PEC Zwolle",136,165,181,204
+"979",6547,"FC Penafiel",147,146,121,29
+"980",9878,"Pescara",NA,120,145,27
+"981",9878,"Pescara",NA,180,125,27
+"982",9878,"Pescara",NA,141,140,27
+"983",9878,"Pescara",152,169,120,27
+"984",9878,"Pescara",148,131,128,27
+"985",8028,"Piast Gliwice",NA,150,195,204
+"986",8028,"Piast Gliwice",NA,124,125,204
+"987",8028,"Piast Gliwice",183,169,129,204
+"988",8028,"Piast Gliwice",183,169,129,204
+"989",8033,"Podbeskidzie Bielsko-Biała",NA,137,152,169
+"990",8033,"Podbeskidzie Bielsko-Biała",NA,137,152,169
+"991",8033,"Podbeskidzie Bielsko-Biała",193,166,102,169
+"992",8033,"Podbeskidzie Bielsko-Biała",189,166,102,169
+"993",8023,"Pogoń Szczecin",NA,185,157,152
+"994",8023,"Pogoń Szczecin",134,140,157,152
+"995",8023,"Pogoń Szczecin",119,144,158,152
+"996",8031,"Polonia Bytom",NA,150,185,88
+"997",8031,"Polonia Bytom",NA,122,162,88
+"998",2183,"P. Warszawa",NA,155,175,184
+"999",2183,"P. Warszawa",NA,162,140,184
+"1000",2183,"P. Warszawa",NA,180,113,184
+"1001",2183,"P. Warszawa",NA,131,139,184
+"1002",8462,"Portsmouth",NA,195,150,72
+"1003",8462,"Portsmouth",NA,165,128,72
+"1004",8462,"Portsmouth",NA,138,144,72
+"1005",8462,"Portsmouth",NA,143,144,72
+"1006",8462,"Portsmouth",148,149,123,72
+"1007",8462,"Portsmouth",148,149,123,72
+"1008",8640,"PSV",NA,155,90,652
+"1009",8640,"PSV",NA,200,158,652
+"1010",8640,"PSV",NA,143,121,652
+"1011",8640,"PSV",NA,168,141,652
+"1012",8640,"PSV",142,161,167,652
+"1013",8640,"PSV",153,125,128,652
+"1014",10172,"Queens Park Rangers",NA,210,210,115
+"1015",10172,"Queens Park Rangers",NA,136,127,115
+"1016",10172,"Queens Park Rangers",NA,156,137,115
+"1017",10172,"Queens Park Rangers",NA,146,140,115
+"1018",10172,"Queens Park Rangers",141,161,148,115
+"1019",10172,"Queens Park Rangers",130,166,148,115
+"1020",8696,"Racing Santander",NA,205,150,160
+"1021",8696,"Racing Santander",NA,184,137,160
+"1022",8696,"Racing Santander",NA,182,168,160
+"1023",8696,"Racing Santander",NA,182,168,160
+"1024",8696,"Racing Santander",147,159,151,160
+"1025",8548,"Rangers",NA,210,200,324
+"1026",8548,"Rangers",NA,194,144,324
+"1027",8548,"Rangers",NA,160,158,324
+"1028",8548,"Rangers",NA,150,148,324
+"1029",8548,"Rangers",139,160,158,324
+"1030",8548,"Rangers",153,153,151,324
+"1031",8370,"Rayo Vallecano",NA,155,120,247
+"1032",8370,"Rayo Vallecano",NA,161,178,247
+"1033",8370,"Rayo Vallecano",NA,135,173,247
+"1034",8370,"Rayo Vallecano",NA,135,173,247
+"1035",8370,"Rayo Vallecano",141,135,173,247
+"1036",8370,"Rayo Vallecano",125,135,169,247
+"1037",9798,"Reading",NA,210,200,43
+"1038",9798,"Reading",NA,185,147,43
+"1039",9798,"Reading",NA,160,145,43
+"1040",9798,"Reading",NA,150,135,43
+"1041",9798,"Reading",142,147,162,43
+"1042",9798,"Reading",144,169,150,43
+"1043",8603,"Real Betis Balompié",NA,135,150,225
+"1044",8603,"Real Betis Balompié",NA,206,135,225
+"1045",8603,"Real Betis Balompié",NA,155,165,225
+"1046",8603,"Real Betis Balompié",NA,155,165,225
+"1047",8603,"Real Betis Balompié",145,155,165,225
+"1048",8603,"Real Betis Balompié",145,155,165,225
+"1049",8633,"Real Madrid CF",NA,200,170,843
+"1050",8633,"Real Madrid CF",NA,194,178,843
+"1051",8633,"Real Madrid CF",NA,198,177,843
+"1052",8633,"Real Madrid CF",NA,194,153,843
+"1053",8633,"Real Madrid CF",145,191,153,843
+"1054",8633,"Real Madrid CF",153,165,175,843
+"1055",8560,"Real Sociedad",NA,160,110,316
+"1056",8560,"Real Sociedad",NA,165,149,316
+"1057",8560,"Real Sociedad",NA,171,171,316
+"1058",8560,"Real Sociedad",NA,171,171,316
+"1059",8560,"Real Sociedad",123,171,166,316
+"1060",8560,"Real Sociedad",162,166,155,316
+"1061",8479,"RC Recreativo",NA,130,130,34
+"1062",8479,"RC Recreativo",NA,135,144,34
+"1063",8479,"RC Recreativo",NA,140,151,34
+"1064",8479,"RC Recreativo",NA,118,151,34
+"1065",8479,"RC Recreativo",148,130,151,34
+"1066",8479,"RC Recreativo",118,109,143,34
+"1067",8690,"Reggio Calabria",NA,130,140,30
+"1068",8690,"Reggio Calabria",NA,109,140,30
+"1069",8690,"Reggio Calabria",NA,165,130,30
+"1070",8690,"Reggio Calabria",NA,186,138,30
+"1071",8690,"Reggio Calabria",163,184,138,30
+"1072",9837,"Stade de Reims",NA,165,140,168
+"1073",9837,"Stade de Reims",NA,150,127,168
+"1074",9837,"Stade de Reims",NA,150,127,168
+"1075",9837,"Stade de Reims",154,150,127,168
+"1076",9837,"Stade de Reims",134,158,127,168
+"1077",9851,"Stade Rennais FC",NA,190,210,367
+"1078",9851,"Stade Rennais FC",NA,195,165,367
+"1079",9851,"Stade Rennais FC",NA,165,141,367
+"1080",9851,"Stade Rennais FC",NA,165,141,367
+"1081",9851,"Stade Rennais FC",167,165,141,367
+"1082",9851,"Stade Rennais FC",167,165,141,367
+"1083",7841,"Rio Ave FC",NA,160,90,248
+"1084",7841,"Rio Ave FC",NA,180,140,248
+"1085",7841,"Rio Ave FC",NA,168,131,248
+"1086",7841,"Rio Ave FC",NA,168,131,248
+"1087",7841,"Rio Ave FC",157,177,153,248
+"1088",7841,"Rio Ave FC",157,177,153,248
+"1089",10219,"RKC Waalwijk",NA,150,150,153
+"1090",10219,"RKC Waalwijk",NA,135,125,153
+"1091",10219,"RKC Waalwijk",NA,159,93,153
+"1092",10219,"RKC Waalwijk",142,133,99,153
+"1093",8551,"Siena",NA,115,160,149
+"1094",8551,"Siena",NA,170,140,149
+"1095",8551,"Siena",NA,150,140,149
+"1096",8551,"Siena",NA,162,137,149
+"1097",8551,"Siena",144,183,144,149
+"1098",9803,"Roda JC Kerkrade",NA,155,90,343
+"1099",9803,"Roda JC Kerkrade",NA,124,139,343
+"1100",9803,"Roda JC Kerkrade",NA,159,141,343
+"1101",9803,"Roda JC Kerkrade",NA,127,146,343
+"1102",9803,"Roda JC Kerkrade",133,146,118,343
+"1103",9999,"KSV Roeselare",NA,125,205,62
+"1104",8686,"Roma",NA,190,155,530
+"1105",8686,"Roma",NA,182,143,530
+"1106",8686,"Roma",NA,150,130,530
+"1107",8686,"Roma",NA,208,149,530
+"1108",8686,"Roma",153,193,127,530
+"1109",8686,"Roma",142,191,141,530
+"1110",8649,"Ross County FC",NA,136,143,192
+"1111",8649,"Ross County FC",118,120,134,192
+"1112",8649,"Ross County FC",153,153,123,192
+"1113",1601,"Ruch Chorzów",NA,155,175,280
+"1114",1601,"Ruch Chorzów",NA,186,144,280
+"1115",1601,"Ruch Chorzów",NA,159,136,280
+"1116",1601,"Ruch Chorzów",NA,159,136,280
+"1117",1601,"Ruch Chorzów",139,181,136,280
+"1118",1601,"Ruch Chorzów",133,176,136,280
+"1119",9853,"AS Saint-Étienne",NA,175,90,371
+"1120",9853,"AS Saint-Étienne",NA,165,145,371
+"1121",9853,"AS Saint-Étienne",NA,152,129,371
+"1122",9853,"AS Saint-Étienne",NA,152,129,371
+"1123",9853,"AS Saint-Étienne",165,152,129,371
+"1124",9853,"AS Saint-Étienne",165,164,148,371
+"1125",9882,"Sampdoria",NA,125,135,318
+"1126",9882,"Sampdoria",NA,180,135,318
+"1127",9882,"Sampdoria",NA,135,140,318
+"1128",9882,"Sampdoria",NA,144,154,318
+"1129",9882,"Sampdoria",130,163,175,318
+"1130",9882,"Sampdoria",130,130,154,318
+"1131",7943,"Sassuolo",NA,120,90,141
+"1132",7943,"Sassuolo",NA,171,105,141
+"1133",7943,"Sassuolo",NA,150,130,141
+"1134",7943,"Sassuolo",NA,183,138,141
+"1135",7943,"Sassuolo",188,186,137,141
+"1136",7943,"Sassuolo",182,169,138,141
+"1137",7794,"SC Bastia",NA,140,210,165
+"1138",7794,"SC Bastia",NA,150,139,165
+"1139",7794,"SC Bastia",NA,150,139,165
+"1140",7794,"SC Bastia",171,156,134,165
+"1141",7794,"SC Bastia",174,156,147,165
+"1142",10228,"SC Heerenveen",NA,150,90,470
+"1143",10228,"SC Heerenveen",NA,171,183,470
+"1144",10228,"SC Heerenveen",NA,162,137,470
+"1145",10228,"SC Heerenveen",NA,142,138,470
+"1146",10228,"SC Heerenveen",147,154,138,470
+"1147",10228,"SC Heerenveen",150,152,138,470
+"1148",10189,"FC Schalke 04",NA,195,185,426
+"1149",10189,"FC Schalke 04",NA,187,142,426
+"1150",10189,"FC Schalke 04",NA,167,140,426
+"1151",10189,"FC Schalke 04",NA,168,145,426
+"1152",10189,"FC Schalke 04",138,139,142,426
+"1153",10189,"FC Schalke 04",143,162,170,426
+"1154",9777,"Servette FC",NA,175,170,77
+"1155",9777,"Servette FC",NA,164,143,77
+"1156",9777,"Servette FC",NA,164,143,77
+"1157",8302,"Sevilla FC",NA,200,195,478
+"1158",8302,"Sevilla FC",NA,206,183,478
+"1159",8302,"Sevilla FC",NA,148,142,478
+"1160",8302,"Sevilla FC",NA,148,142,478
+"1161",8302,"Sevilla FC",183,148,142,478
+"1162",8302,"Sevilla FC",159,165,149,478
+"1163",10179,"FC Sion",NA,170,120,371
+"1164",10179,"FC Sion",NA,177,123,371
+"1165",10179,"FC Sion",NA,165,142,371
+"1166",10179,"FC Sion",NA,165,142,371
+"1167",10179,"FC Sion",155,165,146,371
+"1168",10179,"FC Sion",155,165,146,371
+"1169",8025,"Śląsk Wrocław",NA,150,180,318
+"1170",8025,"Śląsk Wrocław",NA,147,146,318
+"1171",8025,"Śląsk Wrocław",NA,165,87,318
+"1172",8025,"Śląsk Wrocław",NA,165,100,318
+"1173",8025,"Śląsk Wrocław",134,142,113,318
+"1174",8025,"Śląsk Wrocław",140,157,139,318
+"1175",9874,"FC Sochaux-Montbéliard",NA,125,160,246
+"1176",9874,"FC Sochaux-Montbéliard",NA,135,165,246
+"1177",9874,"FC Sochaux-Montbéliard",NA,184,146,246
+"1178",9874,"FC Sochaux-Montbéliard",NA,176,146,246
+"1179",9874,"FC Sochaux-Montbéliard",164,176,146,246
+"1180",9874,"FC Sochaux-Montbéliard",164,176,146,246
+"1181",8466,"Southampton",NA,205,210,216
+"1182",8466,"Southampton",NA,144,134,216
+"1183",8466,"Southampton",NA,170,144,216
+"1184",8466,"Southampton",NA,166,164,216
+"1185",8466,"Southampton",128,149,170,216
+"1186",8466,"Southampton",129,126,159,216
+"1187",8614,"Sparta Rotterdam",NA,140,90,76
+"1188",9986,"Sporting Charleroi",NA,148,210,201
+"1189",9986,"Sporting Charleroi",NA,120,155,201
+"1190",9986,"Sporting Charleroi",NA,146,139,201
+"1191",9986,"Sporting Charleroi",160,146,139,201
+"1192",9986,"Sporting Charleroi",160,146,136,201
+"1193",9768,"Sporting CP",NA,170,90,411
+"1194",9768,"Sporting CP",NA,165,150,411
+"1195",9768,"Sporting CP",NA,204,155,411
+"1196",9768,"Sporting CP",NA,195,155,411
+"1197",9768,"Sporting CP",176,147,174,411
+"1198",9768,"Sporting CP",178,147,174,411
+"1199",9869,"Real Sporting de Gijón",NA,185,195,200
+"1200",9869,"Real Sporting de Gijón",NA,183,164,200
+"1201",9869,"Real Sporting de Gijón",NA,173,135,200
+"1202",9869,"Real Sporting de Gijón",NA,173,135,200
+"1203",9869,"Real Sporting de Gijón",146,173,135,200
+"1204",9869,"Real Sporting de Gijón",153,159,140,200
+"1205",9875,"Napoli",NA,135,165,514
+"1206",9875,"Napoli",NA,180,165,514
+"1207",9875,"Napoli",NA,180,150,514
+"1208",9875,"Napoli",NA,190,154,514
+"1209",9875,"Napoli",180,215,159,514
+"1210",9875,"Napoli",160,189,157,514
+"1211",10190,"FC St. Gallen",NA,145,155,276
+"1212",10190,"FC St. Gallen",NA,157,152,276
+"1213",10190,"FC St. Gallen",NA,115,133,276
+"1214",10190,"FC St. Gallen",146,115,133,276
+"1215",10190,"FC St. Gallen",146,115,128,276
+"1216",9800,"St. Mirren",NA,210,200,257
+"1217",9800,"St. Mirren",NA,148,138,257
+"1218",9800,"St. Mirren",NA,167,138,257
+"1219",9800,"St. Mirren",NA,153,144,257
+"1220",9800,"St. Mirren",178,179,140,257
+"1221",9800,"St. Mirren",124,164,166,257
+"1222",8152,"FC St. Pauli",NA,190,185,35
+"1223",8152,"FC St. Pauli",NA,174,164,35
+"1224",8152,"FC St. Pauli",NA,147,152,35
+"1225",8152,"FC St. Pauli",NA,161,150,35
+"1226",8152,"FC St. Pauli",161,155,144,35
+"1227",8152,"FC St. Pauli",160,153,140,35
+"1228",8467,"St. Johnstone FC",NA,150,130,308
+"1229",8467,"St. Johnstone FC",NA,148,117,308
+"1230",8467,"St. Johnstone FC",NA,132,132,308
+"1231",8467,"St. Johnstone FC",NA,135,142,308
+"1232",8467,"St. Johnstone FC",161,136,132,308
+"1233",8467,"St. Johnstone FC",162,136,140,308
+"1234",9997,"Sint-Truidense VV",NA,150,150,115
+"1235",9997,"Sint-Truidense VV",NA,153,138,115
+"1236",9997,"Sint-Truidense VV",NA,154,113,115
+"1237",9985,"Standard de Liège",NA,175,205,341
+"1238",9985,"Standard de Liège",NA,182,172,341
+"1239",9985,"Standard de Liège",NA,173,157,341
+"1240",9985,"Standard de Liège",NA,173,157,341
+"1241",9985,"Standard de Liège",161,173,151,341
+"1242",9985,"Standard de Liège",161,173,151,341
+"1243",10194,"Stoke City",NA,195,140,322
+"1244",10194,"Stoke City",NA,135,140,322
+"1245",10194,"Stoke City",NA,167,153,322
+"1246",10194,"Stoke City",NA,158,110,322
+"1247",10194,"Stoke City",127,145,119,322
+"1248",10194,"Stoke City",138,159,132,322
+"1249",8472,"Sunderland",NA,195,140,333
+"1250",8472,"Sunderland",NA,175,165,333
+"1251",8472,"Sunderland",NA,175,160,333
+"1252",8472,"Sunderland",NA,159,148,333
+"1253",8472,"Sunderland",154,158,132,333
+"1254",8472,"Sunderland",137,164,141,333
+"1255",10003,"Swansea City",NA,210,210,233
+"1256",10003,"Swansea City",NA,167,155,233
+"1257",10003,"Swansea City",NA,158,166,233
+"1258",10003,"Swansea City",NA,122,167,233
+"1259",10003,"Swansea City",131,121,163,233
+"1260",10003,"Swansea City",131,125,120,233
+"1261",9867,"CD Tenerife",NA,140,125,40
+"1262",9867,"CD Tenerife",NA,180,174,40
+"1263",9867,"CD Tenerife",163,161,167,40
+"1264",9867,"CD Tenerife",163,161,171,40
+"1265",10191,"FC Thun",NA,131,117,279
+"1266",10191,"FC Thun",NA,165,145,279
+"1267",10191,"FC Thun",NA,165,145,279
+"1268",10191,"FC Thun",152,166,145,279
+"1269",10191,"FC Thun",152,166,145,279
+"1270",9804,"Torino",NA,140,135,241
+"1271",9804,"Torino",NA,122,145,241
+"1272",9804,"Torino",NA,165,130,241
+"1273",9804,"Torino",NA,162,137,241
+"1274",9804,"Torino",209,189,125,241
+"1275",9804,"Torino",174,159,137,241
+"1276",8586,"Tottenham Hotspur",NA,165,150,481
+"1277",8586,"Tottenham Hotspur",NA,210,130,481
+"1278",8586,"Tottenham Hotspur",NA,176,138,481
+"1279",8586,"Tottenham Hotspur",NA,171,181,481
+"1280",8586,"Tottenham Hotspur",114,162,165,481
+"1281",8586,"Tottenham Hotspur",133,145,173,481
+"1282",9941,"Toulouse FC",NA,150,105,339
+"1283",9941,"Toulouse FC",NA,165,140,339
+"1284",9941,"Toulouse FC",NA,122,130,339
+"1285",9941,"Toulouse FC",NA,122,130,339
+"1286",9941,"Toulouse FC",158,143,137,339
+"1287",9941,"Toulouse FC",158,122,130,339
+"1288",10242,"ES Troyes AC",NA,135,140,71
+"1289",10242,"ES Troyes AC",NA,150,137,71
+"1290",10242,"ES Troyes AC",NA,150,137,71
+"1291",10242,"ES Troyes AC",148,147,137,71
+"1292",10242,"ES Troyes AC",148,147,137,71
+"1293",8611,"FC Twente",NA,145,90,509
+"1294",8611,"FC Twente",NA,172,174,509
+"1295",8611,"FC Twente",NA,149,197,509
+"1296",8611,"FC Twente",NA,135,132,509
+"1297",8611,"FC Twente",111,165,140,509
+"1298",8611,"FC Twente",131,140,140,509
+"1299",8600,"Udinese",NA,150,120,415
+"1300",8600,"Udinese",NA,166,144,415
+"1301",8600,"Udinese",NA,180,150,415
+"1302",8600,"Udinese",NA,199,160,415
+"1303",8600,"Udinese",205,199,143,415
+"1304",8600,"Udinese",185,189,154,415
+"1305",9771,"União de Leiria, SAD",NA,150,150,85
+"1306",9771,"União de Leiria, SAD",NA,150,150,85
+"1307",9771,"União de Leiria, SAD",NA,148,154,85
+"1308",10267,"Valencia CF",NA,185,175,484
+"1309",10267,"Valencia CF",NA,175,142,484
+"1310",10267,"Valencia CF",NA,149,148,484
+"1311",10267,"Valencia CF",NA,149,148,484
+"1312",10267,"Valencia CF",110,149,148,484
+"1313",10267,"Valencia CF",116,146,147,484
+"1314",9873,"Valenciennes FC",NA,170,115,256
+"1315",9873,"Valenciennes FC",NA,165,155,256
+"1316",9873,"Valenciennes FC",NA,172,151,256
+"1317",9873,"Valenciennes FC",NA,188,151,256
+"1318",9873,"Valenciennes FC",160,174,144,256
+"1319",9873,"Valenciennes FC",160,174,144,256
+"1320",10281,"Real Valladolid",NA,135,125,170
+"1321",10281,"Real Valladolid",NA,166,154,170
+"1322",10281,"Real Valladolid",NA,172,161,170
+"1323",10281,"Real Valladolid",NA,172,161,170
+"1324",10281,"Real Valladolid",153,167,161,170
+"1325",10281,"Real Valladolid",148,147,134,170
+"1326",9876,"Hellas Verona",NA,150,150,145
+"1327",9876,"Hellas Verona",NA,173,169,145
+"1328",9876,"Hellas Verona",157,148,115,145
+"1329",9876,"Hellas Verona",124,148,158,145
+"1330",10269,"VfB Stuttgart",NA,200,175,415
+"1331",10269,"VfB Stuttgart",NA,178,140,415
+"1332",10269,"VfB Stuttgart",NA,170,134,415
+"1333",10269,"VfB Stuttgart",NA,189,137,415
+"1334",10269,"VfB Stuttgart",168,164,140,415
+"1335",10269,"VfB Stuttgart",155,172,117,415
+"1336",10205,"Villarreal CF",NA,160,165,364
+"1337",10205,"Villarreal CF",NA,161,152,364
+"1338",10205,"Villarreal CF",NA,158,158,364
+"1339",10205,"Villarreal CF",NA,158,158,364
+"1340",10205,"Villarreal CF",112,158,158,364
+"1341",10205,"Villarreal CF",126,143,139,364
+"1342",8277,"Vitesse",NA,150,90,423
+"1343",8277,"Vitesse",NA,173,179,423
+"1344",8277,"Vitesse",NA,155,144,423
+"1345",8277,"Vitesse",NA,156,135,423
+"1346",8277,"Vitesse",140,163,158,423
+"1347",8277,"Vitesse",145,161,180,423
+"1348",7844,"Vitória Guimarães",NA,165,90,300
+"1349",7844,"Vitória Guimarães",NA,164,158,300
+"1350",7844,"Vitória Guimarães",NA,179,177,300
+"1351",7844,"Vitória Guimarães",NA,179,173,300
+"1352",7844,"Vitória Guimarães",131,173,141,300
+"1353",7844,"Vitória Guimarães",131,173,141,300
+"1354",10238,"Vitória Setúbal",NA,165,90,238
+"1355",10238,"Vitória Setúbal",NA,165,140,238
+"1356",10238,"Vitória Setúbal",NA,158,132,238
+"1357",10238,"Vitória Setúbal",NA,158,132,238
+"1358",10238,"Vitória Setúbal",147,158,132,238
+"1359",10238,"Vitória Setúbal",149,158,132,238
+"1360",9839,"VVV-Venlo",NA,150,150,152
+"1361",9839,"VVV-Venlo",NA,162,134,152
+"1362",9839,"VVV-Venlo",NA,155,155,152
+"1363",9839,"VVV-Venlo",NA,164,120,152
+"1364",8475,"Waasland-Beveren",NA,134,114,105
+"1365",8475,"Waasland-Beveren",122,98,97,105
+"1366",8475,"Waasland-Beveren",132,140,94,105
+"1367",9817,"Watford",NA,205,205,40
+"1368",9817,"Watford",NA,182,157,40
+"1369",9817,"Watford",NA,165,143,40
+"1370",9817,"Watford",NA,136,135,40
+"1371",9817,"Watford",160,153,135,40
+"1372",9817,"Watford",145,141,135,40
+"1373",8697,"SV Werder Bremen",NA,180,205,423
+"1374",8697,"SV Werder Bremen",NA,177,180,423
+"1375",8697,"SV Werder Bremen",NA,174,164,423
+"1376",8697,"SV Werder Bremen",NA,216,174,423
+"1377",8697,"SV Werder Bremen",142,128,135,423
+"1378",8697,"SV Werder Bremen",174,192,183,423
+"1379",8659,"West Bromwich Albion",NA,195,210,305
+"1380",8659,"West Bromwich Albion",NA,135,150,305
+"1381",8659,"West Bromwich Albion",NA,159,128,305
+"1382",8659,"West Bromwich Albion",NA,167,113,305
+"1383",8659,"West Bromwich Albion",140,163,130,305
+"1384",8659,"West Bromwich Albion",145,163,130,305
+"1385",8654,"West Ham United",NA,151,130,326
+"1386",8654,"West Ham United",NA,120,140,326
+"1387",8654,"West Ham United",NA,159,102,326
+"1388",8654,"West Ham United",NA,167,108,326
+"1389",8654,"West Ham United",184,171,105,326
+"1390",8654,"West Ham United",171,170,108,326
+"1391",10001,"KVC Westerlo",NA,140,210,217
+"1392",10001,"KVC Westerlo",NA,167,174,217
+"1393",10001,"KVC Westerlo",NA,151,146,217
+"1394",10001,"KVC Westerlo",148,144,146,217
+"1395",8024,"Widzew Łódź",NA,169,158,122
+"1396",8024,"Widzew Łódź",NA,185,126,122
+"1397",8024,"Widzew Łódź",NA,158,121,122
+"1398",8024,"Widzew Łódź",190,184,139,122
+"1399",8528,"Wigan Athletic",NA,190,140,200
+"1400",8528,"Wigan Athletic",NA,160,165,200
+"1401",8528,"Wigan Athletic",NA,138,126,200
+"1402",8528,"Wigan Athletic",NA,119,152,200
+"1403",8528,"Wigan Athletic",138,164,163,200
+"1404",8528,"Wigan Athletic",144,151,154,200
+"1405",8525,"Willem II",NA,135,90,222
+"1406",8525,"Willem II",NA,166,153,222
+"1407",8525,"Willem II",NA,147,125,222
+"1408",8525,"Willem II",150,153,135,222
+"1409",10265,"Wisła Kraków",NA,160,205,332
+"1410",10265,"Wisła Kraków",NA,183,157,332
+"1411",10265,"Wisła Kraków",NA,154,179,332
+"1412",10265,"Wisła Kraków",NA,154,179,332
+"1413",10265,"Wisła Kraków",135,155,179,332
+"1414",10265,"Wisła Kraków",119,101,157,332
+"1415",8721,"VfL Wolfsburg",NA,195,155,463
+"1416",8721,"VfL Wolfsburg",NA,152,171,463
+"1417",8721,"VfL Wolfsburg",NA,171,123,463
+"1418",8721,"VfL Wolfsburg",NA,210,161,463
+"1419",8721,"VfL Wolfsburg",170,182,154,463
+"1420",8721,"VfL Wolfsburg",170,185,167,463
+"1421",8602,"Wolverhampton Wanderers",NA,210,210,118
+"1422",8602,"Wolverhampton Wanderers",NA,165,140,118
+"1423",8602,"Wolverhampton Wanderers",NA,166,153,118
+"1424",8602,"Wolverhampton Wanderers",NA,171,142,118
+"1425",8602,"Wolverhampton Wanderers",133,175,147,118
+"1426",8602,"Wolverhampton Wanderers",136,150,150,118
+"1427",7955,"Neuchâtel Xamax",NA,190,150,171
+"1428",7955,"Neuchâtel Xamax",NA,138,146,171
+"1429",7955,"Neuchâtel Xamax",NA,121,116,171
+"1430",9868,"Xerez Club Deportivo",NA,150,140,38
+"1431",9868,"Xerez Club Deportivo",NA,159,165,38
+"1432",9868,"Xerez Club Deportivo",NA,138,153,38
+"1433",9868,"Xerez Club Deportivo",NA,138,153,38
+"1434",10192,"BSC Young Boys",NA,185,170,529
+"1435",10192,"BSC Young Boys",NA,202,158,529
+"1436",10192,"BSC Young Boys",NA,155,128,529
+"1437",10192,"BSC Young Boys",NA,155,128,529
+"1438",10192,"BSC Young Boys",172,151,128,529
+"1439",10192,"BSC Young Boys",172,151,128,529
+"1440",8021,"Zagłębie Lubin",NA,140,210,207
+"1441",8021,"Zagłębie Lubin",NA,123,157,207
+"1442",8021,"Zagłębie Lubin",NA,192,157,207
+"1443",8021,"Zagłębie Lubin",NA,167,157,207
+"1444",8021,"Zagłębie Lubin",133,149,148,207
+"1445",8394,"Real Zaragoza",NA,155,115,159
+"1446",8394,"Real Zaragoza",NA,126,131,159
+"1447",8394,"Real Zaragoza",NA,166,158,159
+"1448",8394,"Real Zaragoza",NA,166,158,159
+"1449",8394,"Real Zaragoza",121,166,158,159
+"1450",8394,"Real Zaragoza",154,165,140,159
+"1451",8027,"Zawisza Bydgoszcz",145,168,143,75
+"1452",8027,"Zawisza Bydgoszcz",145,147,143,75
+"1453",10000,"SV Zulte-Waregem",NA,150,200,306
+"1454",10000,"SV Zulte-Waregem",NA,153,147,306
+"1455",10000,"SV Zulte-Waregem",NA,149,152,306
+"1456",10000,"SV Zulte-Waregem",NA,131,139,306
+"1457",10000,"SV Zulte-Waregem",147,131,139,306
+"1458",10000,"SV Zulte-Waregem",147,131,139,306
